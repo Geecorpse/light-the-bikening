@@ -4,6 +4,7 @@ PVT G1 2018 HEHASDLJASDknlas
 fgölkdfgölnfgdölk
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 //First. Mvh Felix
 second/gustav
 =======
@@ -13,3 +14,6 @@ second/gustav
 
 
 Hejsan mitt namn är gustav och jag försöker pusha upp skit på github/Gustav
+=======
+Testad rensning
+>>>>>>> bb34c27ec2f36201adb9b57f79c4f1494146204d
